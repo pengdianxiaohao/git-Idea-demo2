@@ -18,8 +18,6 @@ class GitIdeaDemoApplicationTests {
         System.out.println("hello,git4");
         System.out.println("master,test");
         System.out.println("hot-fix test!!!!!!");
-
-
     }
 
 }
